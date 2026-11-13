@@ -1,0 +1,19 @@
+   0             º K: 0-prolate, 1-oblate                                   º
+3.0              º a/b of mantle                                            º
+1.5000  0.0100   º RII - Refraction Index of core                           º
+1.3000  0.0100   º RI  - Refraction Index of mantle                         º
+1.0     D-15     º EPS                                                      º
+1.0     D-16     º EPS1                                                     º
+1.0     D-05     º EPS2                                                     º
+1.0     D-05     º EPS22                                                    º
+   0             º Iprint                                                   º
+0.2              º WVL - Wavelength of incident radiation                   º
+   2             º icx:1-Rv of total particle, 2-Xv, 3-C, 4-Cksi0, 5-Xc     º
+  11             º NRV - number of sizes to be calculated                   º
+17.0             º ARV0 - initial size                                      º
+1.0              º DRV  - step over size                                    º
+   1             º NALPH - number of angles to be calculated                º
+   0             º IAL0 - initial angle                                     º
+  90             º IDAL - step over angle                                   º
+   1             º iswitch: 0-a/b of core, 1-Vol_rat, 2-Xv_core, 3-Rv_core  º
+0.7              º a/b of core OR Vol_rat OR Xv_core OR Rv_core             º
